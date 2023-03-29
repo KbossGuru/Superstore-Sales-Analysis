@@ -6,7 +6,7 @@ The data was gotten from Kaggle.com
 # The insights I provided in the analysis includes:
       1. Sales and profit by month
       2. Year-over-Year Sales and Profit Growth
-      3. Top 5 customers 
+      3. Top 5 customers by purchases made
       4. Sales by Category and Sub-Category
       5. Sales by Location(Region, State, Cities)
       
@@ -21,4 +21,5 @@ The data was gotten from Kaggle.com
       
  Here's a preview of the dashboard:
  
- [Superstore.pdf](https://github.com/KbossGuru/Superstore-Sales-Analysis/files/11101510/Superstore.pdf)
+
+![Screenshot (34)](https://user-images.githubusercontent.com/116390496/228559198-f110b011-65ff-4baa-8108-d922c6beb0db.png)
